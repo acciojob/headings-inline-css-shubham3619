@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+h1 {
+	color: deepskyblue;
+}
+h2 {
+	color: red;
+}
+h3 {
+	color: seagreen;
+}
+h4 {
+	color: orange;
+}
+h5 {
+	color: slategray
+}
+h6 {
+	color: yellow;
+}
+
